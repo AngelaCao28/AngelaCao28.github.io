@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Anqi Cao</copyright>
+    <lastBuildDate>Mon, 26 Aug 2019 19:11:26 +0800</lastBuildDate>
     
 	<atom:link href="https://AngelaCao28.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1</title>
+      <link>https://AngelaCao28.github.io/publication_types/1/</link>
+      <pubDate>Mon, 26 Aug 2019 19:11:26 +0800</pubDate>
+      
+      <guid>https://AngelaCao28.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
