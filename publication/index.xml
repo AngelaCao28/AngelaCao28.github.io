@@ -6,11 +6,20 @@
     <description>Recent content in Publications on Anqi Cao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023 Anqi Cao</copyright>
+    <copyright>&amp;copy; 2024 Anqi Cao</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://AngelaCao28.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Action-Evaluator: A Visualization Approach for Player Action Evaluation in Soccer</title>
+      <link>https://AngelaCao28.github.io/publication/action-evaluator-a-visualization-approach-for-player-action-evaluation-in-soccer/</link>
+      <pubDate>Wed, 25 Oct 2023 16:20:38 +0800</pubDate>
+      
+      <guid>https://AngelaCao28.github.io/publication/action-evaluator-a-visualization-approach-for-player-action-evaluation-in-soccer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Team-Builder: Toward More Effective Lineup Selection in Soccer</title>
